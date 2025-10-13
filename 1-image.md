@@ -18,10 +18,8 @@ Descargar la imagen **hello-world**
 
 
 **¿Qué es nginx**
-# COMPLETAR 
-Es un software de servidor web de código abierto que funciona como servidor web, proxy inverso, balanceador de carga y caché de contenido.
-Es conocido por su alto rendimiento, bajo consumo de recursos y arquitectura asíncrona, que le permite manejar muchas conexiones con eficiencia. 
-NGINX se utiliza comúnmente para acelerar la entrega de sitios web, optimizar la carga de aplicaciones y asegurar la estabilidad de servicios con alto tráfico.
+# Es un software de servidor web de código abierto que funciona como servidor web, proxy inverso, balanceador de carga y caché de contenido. Es conocido por su alto rendimiento, bajo consumo de recursos y arquitectura asíncrona, que le permite manejar muchas conexiones con eficiencia. NGINX se utiliza comúnmente para acelerar la entrega de sitios web, optimizar la carga de aplicaciones y asegurar la estabilidad de servicios con alto tráfico. 
+
 Descargar la imagen  **nginx** en la versión **alpine**
 # docker pull nginx:alpine
 
